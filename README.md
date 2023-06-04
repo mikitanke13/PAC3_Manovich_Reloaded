@@ -3,33 +3,38 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Miquel Bergés Martín 
 
 
-Fecha: 
+Fecha: 21 de maig de 2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 
-## Planteamiento
+## Introducció
+
+En el llibre "El software toma el mando", Lev Manovich ens convida a posar-nos "les ulleres de Manovich" i a explorar com els principis del programari poden ser aplicats a diferents àmbits, incloent-hi l'art contemporani. Aquest assaig pretén ampliar el marc conceptual de Manovich i explorar dos exemples recents d'hibridació artística que podrien formar part d'una hipotètica segona versió del seu llibre. A través d'aquesta anàlisi, descobrirem com la fusió de diferents mitjans crea noves experiències multimodals i multisensorials per al públic contemporani.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Re-descubrient la hibridació: Cas 1
+
+Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lació artística multimodal. En aquesta forma d'expressió artística, es combinen projeccions de vídeo, elements interactius i música en viu per crear una experiència immersiva i multisensorial. Artistes d'avantguarda com Crish Milk i Rafael Lozano-Hemmer han abraçat aquesta pràctica per transcendir els límits tradicionals dels mitjans i crear obres que combinen moviment, interactivitat i so. A través de projeccions de vídeo interactives, les quals reaccionen als moviments dels espectadors, s'estableix una connexió única entre l'obra i el públic. A més, la música en viu, interpretada en sincronia amb les projeccions i la interactivitat, enriqueix l'experiència global. Aquesta fusió de diferents mitjans permet als espectadors explorar noves formes de relació amb l'art, proporcionant-los una vivència inigualable que combina la passivitat de l'espectador amb la participació activa en l'obra.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Re-descubrient la hibridació: Cas 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-## Re-descubriendo la hibridacion: Caso 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Un altre exemple d'hibridació que encaixa amb la visió de Manovich és la narrativa transmedia interactiva. A través d'espais d'avantguarda com Awwwards, Submarinechannel i ArtFutura, artistes digitals estan utilitzant diferents mitjans com ara text, vídeo, imatges i interactivitat per crear universos narratius complexos i immersius. En aquesta forma d'expressió artística, la història es desplega a través de diverses plataformes i mitjans, permetent al públic explorar i interactuar amb els personatges i trames en diferents contextos. L'ús de tecnologia digital i plataformes en línia permet als artistes expandir la narrativa més enllà de les limitacions d'un mitjà únic. El públic pot participar activament en la creació del sentit de la història, explorant múltiples camins narratius i contribuint a la construcció del relat. Aquesta hibridació de mitjans i la participació activa del públic redefineixen la noció tradicional de narrativa, oferint una experiència més interactiva i personalitzada.
 
 
-### Referencias y Bibliografía
+## Conclusió
+
+El desenvolupament i l'evolució de l'art contemporani s'ha vist profundament influït per l'adveniment de la tecnologia i els mitjans digitals. A mesura que la tecnologia ha avançat, els artistes han buscat noves formes d'expressió que combinin diversos mitjans per crear obres híbrides que ensenyin una nova perspectiva de l'art. Les instal·lacions artístiques multimodals són un exemple perfecte d'aquesta hibridació. Amb la fusió de projeccions de vídeo, interactivitat i música en viu, aquestes instal·lacions van més enllà dels límits dels mitjans tradicionals, creant experiències que combinen la visió, l'audició i la interacció física dels espectadors. Aquesta combinació de diferents mitjans permet als artistes jugar amb la percepció i la immersió, transportant l'espectador a un món nou i fascinant.
+
+La narrativa transmedia interactiva és un altre exemple potent d'hibridació artística que ha emergit en l'era digital. Amb l'ús de diverses plataformes i mitjans, els artistes poden expandir les seves històries més enllà dels límits d'un sol mitjà. El públic ja no és un espectador passiu, sinó que es converteix en un participant actiu en la construcció del relat. A través de l'exploració de múltiples camins narratius i la interacció amb els personatges i els elements de la història, els espectadors poden viure una experiència personalitzada i immersiva. 
+
+
+### Referències y Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
