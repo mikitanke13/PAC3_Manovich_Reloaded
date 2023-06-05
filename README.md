@@ -23,7 +23,8 @@ Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lac
 
 Carsten Höller i Pipilotti Rist, van ser dos ar´tisites d'avanguarda de la creació de obres amb instal·lacions artístiques multimodals.
 * Carsten Höller: Aquest artista utilitza una varietat de mitjans com la instal·lació, la performance i la psicologia per a crear obres interactives i participatives. Moltes de les seves instal·lacions incorporen elements de joc i jugueries, convidant els espectadors a experimentar amb els seus sentits i la seva percepció.
-
+[Holler-Fondazione-Prada.jpg](https://postimg.cc/9DbWjJgR)
+*"Alucinaciones" obra de Carsten Höller en el Museo Tamayo*
 * Pipilotti Rist: És coneguda per les seves instal·lacions que combinen imatges de vídeo, música i espais envolvents per a crear experiències visuals i sensorials. Les seves obres solen explorar temes com la identitat de gènere, la sexualitat i la relació amb la natura.
 [![Rafael-Lozano-746x419.jpg](https://i.postimg.cc/0Nvtp65L/Rafael-Lozano-746x419.jpg)](https://postimg.cc/0ztdvywf)
 
