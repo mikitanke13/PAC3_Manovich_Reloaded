@@ -19,11 +19,15 @@ En el llibre "El software toma el mando", Lev Manovich ens convida a posar-nos "
 
 ## Re-descubrient la hibridació: Cas 1
 
-Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lació artística multimodal. En aquesta forma d'expressió artística, es combinen projeccions de vídeo, elements interactius i música en viu per crear una experiència immersiva i multisensorial. Artistes d'avantguarda com Crish Milk i Rafael Lozano-Hemmer han abraçat aquesta pràctica per transcendir els límits tradicionals dels mitjans i crear obres que combinen moviment, interactivitat i so. 
+Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lació artística multimodal. En aquesta forma d'expressió artística, combina diversos mitjans i formats per a crear una experiència immersiva i interactiva per al públic. Aquest tipus d'instal·lacions poden utilitzar arts visuals, sons, llums, vídeo, música, escultura, tecnologia interactiva i altres recursos per a generar un diàleg multisensorial amb l'espectador. Les instal·lacions artístiques multimodals ofereixen una experiència més enriquidora i complexa, ja que combinen diferents formes d'expressió artística per a transmetre un missatge o provocar una resposta emocional. 
 
+Carsten Höller i Pipilotti Rist, van ser dos ar´tisites d'avanguarda de la creació de obres amb instal·lacions artístiques multimodals.
+* Carsten Höller: Aquest artista utilitza una varietat de mitjans com la instal·lació, la performance i la psicologia per a crear obres interactives i participatives. Moltes de les seves instal·lacions incorporen elements de joc i jugueries, convidant els espectadors a experimentar amb els seus sentits i la seva percepció.
+
+* Pipilotti Rist: És coneguda per les seves instal·lacions que combinen imatges de vídeo, música i espais envolvents per a crear experiències visuals i sensorials. Les seves obres solen explorar temes com la identitat de gènere, la sexualitat i la relació amb la natura.
 [![Rafael-Lozano-746x419.jpg](https://i.postimg.cc/0Nvtp65L/Rafael-Lozano-746x419.jpg)](https://postimg.cc/0ztdvywf)
 
-*Entrevista a Rafael Lozano-Hemmer, artista presente en la colección Iberdrola.*
+
 
 
 A través de projeccions de vídeo interactives, les quals reaccionen als moviments dels espectadors, s'estableix una connexió única entre l'obra i el públic. A més, la música en viu, interpretada en sincronia amb les projeccions i la interactivitat, enriqueix l'experiència global. Aquesta fusió de diferents mitjans permet als espectadors explorar noves formes de relació amb l'art, proporcionant-los una vivència inigualable que combina la passivitat de l'espectador amb la participació activa en l'obra.
