@@ -22,6 +22,7 @@ En el llibre "El software toma el mando", Lev Manovich ens convida a posar-nos "
 Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lació artística multimodal. En aquesta forma d'expressió artística, es combinen projeccions de vídeo, elements interactius i música en viu per crear una experiència immersiva i multisensorial. Artistes d'avantguarda com Crish Milk i Rafael Lozano-Hemmer han abraçat aquesta pràctica per transcendir els límits tradicionals dels mitjans i crear obres que combinen moviment, interactivitat i so. 
 
 [![Rafael-Lozano-746x419.jpg](https://i.postimg.cc/0Nvtp65L/Rafael-Lozano-746x419.jpg)](https://postimg.cc/0ztdvywf)
+
 *Entrevista a Rafael Lozano-Hemmer, artista presente en la colección Iberdrola. *
 
 
