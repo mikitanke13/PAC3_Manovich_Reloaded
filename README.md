@@ -8,9 +8,6 @@ Autor: Miquel Bergés Martín
 
 Fecha: 21 de maig de 2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
 
 ## Introducció
 
@@ -40,7 +37,15 @@ A través de projeccions de vídeo interactives, les quals reaccionen als movime
 
 ## Re-descubrient la hibridació: Cas 2
 
-Un altre exemple d'hibridació que encaixa amb la visió de Manovich és la narrativa transmedia interactiva. A través d'espais d'avantguarda com Awwwards, Submarinechannel i ArtFutura, artistes digitals estan utilitzant diferents mitjans com ara text, vídeo, imatges i interactivitat per crear universos narratius complexos i immersius. En aquesta forma d'expressió artística, la història es desplega a través de diverses plataformes i mitjans, permetent al públic explorar i interactuar amb els personatges i trames en diferents contextos. L'ús de tecnologia digital i plataformes en línia permet als artistes expandir la narrativa més enllà de les limitacions d'un mitjà únic. El públic pot participar activament en la creació del sentit de la història, explorant múltiples camins narratius i contribuint a la construcció del relat. Aquesta hibridació de mitjans i la participació activa del públic redefineixen la noció tradicional de narrativa, oferint una experiència més interactiva i personalitzada.
+Un altre exemple d'hibridació que encaixa amb la visió de Manovich és la narrativa transmedia interactiva. A través d'espais d'avantguarda com Awwwards, Submarinechannel i ArtFutura, artistes digitals estan utilitzant diferents mitjans com ara text, vídeo, imatges i interactivitat per crear universos narratius complexos i immersius. En aquesta forma d'expressió artística, la història es desplega a través de diverses plataformes i mitjans, permetent al públic explorar i interactuar amb els personatges i trames en diferents contextos. 
+
+L'ús de tecnologia digital i plataformes en línia permet als artistes expandir la narrativa més enllà de les limitacions d'un mitjà únic. El públic pot participar activament en la creació del sentit de la història, explorant múltiples camins narratius i contribuint a la construcció del relat. Aquesta hibridació de mitjans i la participació activa del públic redefineixen la noció tradicional de narrativa, oferint una experiència més interactiva i personalitzada.
+
+Un exemple conegut de narrativa transmèdia interactiva és el "Univers Cinematogràfic de Marvel" (Marvel Cinematic Universe, MCU), on es van crear pel·lícules, sèries de televisió, còmics, videojocs i altres continguts que es van entrelaçar per a construir una trama complexa i interconnectada. El públic podia seguir les diverses històries i personatges a través de diferents mitjans i participar en debats i especulacions en línia.
+
+[![Captura-de-pantalla-2023-06-05-161830.jpg](https://i.postimg.cc/qqS1pKFj/Captura-de-pantalla-2023-06-05-161830.jpg)](https://postimg.cc/dZR2Bhwy)
+
+*'Vengadores: Endgame', l’univers cinematogràfic Marvel entona l'hora dels adéus*
 
 
 ## Conclusió
@@ -55,7 +60,8 @@ La narrativa transmedia interactiva és un altre exemple potent d'hibridació ar
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * https://arquitecturaviva.com/articulos/partido-amistoso-de-pipilotti-rist-en-cataluna
 * https://mxcity.mx/2019/01/las-alucinantes-obras-de-carsten-holler-en-el-tamayo/
-* 
+* https://www.ara.cat/cultura/vengadores-univers-cinematografic-marvel-entona_1_2678982.html
+
 
 
 ----
