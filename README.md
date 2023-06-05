@@ -29,6 +29,10 @@ Carsten Höller i Pipilotti Rist, van ser dos ar´tisites d'avanguarda de la cre
 *"Alucinaciones" obra de Carsten Höller en el Museo Tamayo*
 * Pipilotti Rist: És coneguda per les seves instal·lacions que combinen imatges de vídeo, música i espais envolvents per a crear experiències visuals i sensorials. Les seves obres solen explorar temes com la identitat de gènere, la sexualitat i la relació amb la natura.
 
+[![av-medium-av-40403.jpg](https://i.postimg.cc/fbnjyBk4/av-medium-av-40403.jpg)](https://postimg.cc/DS6bYQq5)
+
+*‘Partido amistoso - sentimientos electrónicos’ obra de Pipilotti Rist a la Fundació Joan Miró de Barcelona*
+
 
 
 A través de projeccions de vídeo interactives, les quals reaccionen als moviments dels espectadors, s'estableix una connexió única entre l'obra i el públic. A més, la música en viu, interpretada en sincronia amb les projeccions i la interactivitat, enriqueix l'experiència global. Aquesta fusió de diferents mitjans permet als espectadors explorar noves formes de relació amb l'art, proporcionant-los una vivència inigualable que combina la passivitat de l'espectador amb la participació activa en l'obra.
@@ -49,6 +53,9 @@ La narrativa transmedia interactiva és un altre exemple potent d'hibridació ar
 ### Referències y Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* https://arquitecturaviva.com/articulos/partido-amistoso-de-pipilotti-rist-en-cataluna
+* https://mxcity.mx/2019/01/las-alucinantes-obras-de-carsten-holler-en-el-tamayo/
+* 
 
 
 ----
