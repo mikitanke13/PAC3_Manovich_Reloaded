@@ -23,7 +23,7 @@ Una forma d'hibridació que exemplifica la visió de Manovich és la instal·lac
 
 [![Rafael-Lozano-746x419.jpg](https://i.postimg.cc/0Nvtp65L/Rafael-Lozano-746x419.jpg)](https://postimg.cc/0ztdvywf)
 
-*Entrevista a Rafael Lozano-Hemmer, artista presente en la colección Iberdrola. *
+*Entrevista a Rafael Lozano-Hemmer, artista presente en la colección Iberdrola.*
 
 
 A través de projeccions de vídeo interactives, les quals reaccionen als moviments dels espectadors, s'estableix una connexió única entre l'obra i el públic. A més, la música en viu, interpretada en sincronia amb les projeccions i la interactivitat, enriqueix l'experiència global. Aquesta fusió de diferents mitjans permet als espectadors explorar noves formes de relació amb l'art, proporcionant-los una vivència inigualable que combina la passivitat de l'espectador amb la participació activa en l'obra.
